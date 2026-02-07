@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <!-- Prevent uninstallation -->
+        <limit-password />
+        <watch-login />
+        
+        <!-- Remote wipe capability -->
+        <wipe-data />
+        
+        <!-- Lock device -->
+        <lock-now />
+        
+        <!-- Password policies -->
+        <force-lock />
+        <expire-password />
+        
+        <!-- Disable camera if needed -->
+        <disable-camera />
+        
+        <!-- Additional policies for Android 3.0+ -->
+        <encrypted-storage />
+    </uses-policies>
+</device-admin>

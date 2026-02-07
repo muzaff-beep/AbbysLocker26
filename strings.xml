@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">وی پی ان آزادی ایران</string>
+    <string name="app_subtitle">اینترنت رایگان و بدون سانسور</string>
+    <string name="app_icon_desc">نماد شیر و خورشید</string>
+    
+    <!-- Connection Status -->
+    <string name="status_connected">متصل</string>
+    <string name="status_disconnected">قطع</string>
+    <string name="status_connecting">در حال اتصال…</string>
+    <string name="status_disconnecting">در حال قطع اتصال…</string>
+    
+    <!-- Buttons -->
+    <string name="connect">اتصال</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="connecting">در حال اتصال…</string>
+    
+    <!-- Server Selection -->
+    <string name="select_server">انتخاب سرور</string>
+    <string name="server_display">سرور: %s</string>
+    <string name="ip_display">آی‌پی: %s</string>
+    
+    <!-- Speed Stats -->
+    <string name="download">دانلود</string>
+    <string name="upload">آپلود</string>
+    
+    <!-- Usage Stats -->
+    <string name="usage_stats">آمار استفاده</string>
+    <string name="data_today">داده امروز</string>
+    <string name="data_total">کل داده</string>
+    <string name="connection_time">زمان اتصال</string>
+    <string name="protected_since">محافظت شده از</string>
+    
+    <!-- Share Feature -->
+    <string name="share_with_friends">اشتراک با دوستان</string>
+    <string name="share_via">اشتراک از طریق…</string>
+    <string name="share_subject">دریافت اینترنت آزاد و بدون سانسور</string>
+    <string name="share_message">وی پی ان آزادی ایران را نصب کنید و از اینترنت رایگان و بدون سانسور در ایران لذت ببرید. محدودیت‌ها را دور بزنید و به وب آزاد دسترسی پیدا کنید. دانلود کنید: https://libertyvpn.ir/download
+
+#اینترنت_آزاد #ایران #وی_پی_ان #بدون_سانسور</string>
+    
+    <!-- Reconnection Prompt -->
+    <string name="reconnect_title">اتصال قطع شد</string>
+    <string name="reconnect_message">اتصال شما به سرور هلند قطع شد. برای بازگردانی دسترسی به اینترنت آزاد، دوباره وصل شوید.</string>
+    <string name="reconnect">اتصال مجدد</string>
+    
+    <!-- Server List Items -->
+    <string name="server_tehran">تهران - سریع</string>
+    <string name="server_netherlands">هلند - امن</string>
+    <string name="server_usa">آمریکا - پرسرعت</string>
+    <string name="server_germany">آلمان - خصوصی</string>
+    <string name="server_uk">انگلیس - پریمیوم</string>
+    <string name="server_canada">کانادا - رایگان</string>
+    <string name="server_france">فرانسه - امن</string>
+    <string name="server_japan">ژاپن - سریع</string>
+    <string name="server_switzerland">سوئیس - خصوصی</string>
+    <string name="server_sweden">سوئد - بدون سانسور</string>
+    <string name="server_turkey">ترکیه - رایگان</string>
+    <string name="server_australia">استرالیا - امن</string>
+    
+    <!-- Colors -->
+    <color name="color_connecting">#F57C00</color>
+    <color name="color_connected">#4CAF50</color>
+    <color name="color_disconnected">#F44336</color>
+    <color name="color_disconnecting">#FF9800</color>
+    <color name="color_good_ping">#4CAF50</color>
+    <color name="color_medium_ping">#FFC107</color>
+    <color name="color_bad_ping">#F44336</color>
+</resources>

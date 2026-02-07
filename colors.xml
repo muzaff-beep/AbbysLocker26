@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Theme Colors -->
+    <color name="primary">#0A1A2F</color>
+    <color name="primary_dark">#061023</color>
+    <color name="accent">#4FC3F7</color>
+    <color name="background">#0A1A2F</color>
+    <color name="card_background">#1E3A5F</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    
+    <!-- Connection Status Colors -->
+    <color name="color_connecting">#F57C00</color>
+    <color name="color_connected">#4CAF50</color>
+    <color name="color_disconnected">#F44336</color>
+    <color name="color_disconnecting">#FF9800</color>
+    
+    <!-- Ping Status Colors -->
+    <color name="color_good_ping">#4CAF50</color>
+    <color name="color_medium_ping">#FFC107</color>
+    <color name="color_bad_ping">#F44336</color>
+    
+    <!-- Button Colors -->
+    <color name="button_connect">#4FC3F7</color>
+    <color name="button_disconnect">#F44336</color>
+    <color name="button_share">#2E7D32</color>
+</resources>
